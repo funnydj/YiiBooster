@@ -1,3 +1,9 @@
+/* =========================================================
+ * rewritten by Amr Bedair <amr.bedair@gmail.com>
+ * @since booster v4.0.0-beta-2
+ *  
+ * ========================================================= */
+
 (function($){
 
   var checkedItems = [];
